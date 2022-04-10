@@ -52,4 +52,3 @@ gcc -std=c1x inform.c
 ```
 *Invokes different standards.  
 Clang compiler uses the same flags.*
-so if i change sth here
