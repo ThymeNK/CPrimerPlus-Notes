@@ -1,5 +1,4 @@
 # Getting ready
-[Review Questions](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ReviewQuestions.md) & [Programming Exercise](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ProgrammingExercise.md)
 ## Whence C?
 Dennis Ritchie & Ken Thompson created C based on B language when designing the UNIX system in 1972.
 ## Why C?
@@ -53,3 +52,5 @@ gcc -std=c1x inform.c
 ```
 *Invokes different standards.  
 Clang compiler uses the same flags.*
+
+[Review Questions](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ReviewQuestions.md) & [Programming Exercise](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ProgrammingExercise.md)
