@@ -7,6 +7,16 @@
    print statementGustav Mahler  ←Third and fourth print
    statements
    ```
+   ```c
+   #include <stdio.h>
+
+   int main(void) {
+      printf("Thyme Tao\n");  // Whole name
+      printf("Thyme\n");      // First name
+      printf("Tao\n");        // Last name
+      return 0;
+   }
+   ```
 2. Write a program to print your name and address.
 3. Write a program that converts your age in years to days and displays both values. At this point, don’t worry about fractional years and leap years.
 4. Write a program that produces the following output:
