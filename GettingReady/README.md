@@ -54,4 +54,4 @@ gcc -std=c1x inform.c
 Clang compiler uses the same flags.*
 
 ---
-[Review Questions](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ReviewQuestions.md) & [Programming Exercise](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/ProgrammingExercise.md)
+[Review Questions](ReviewQ.md) & [Programming Exercise](Exercise.md)
