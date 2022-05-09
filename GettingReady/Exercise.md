@@ -13,4 +13,4 @@ int main(void) {
   return 0;
 }
 ```
-[*To get the "c" file please click here.*](https://github.com/ThymeNK/CPrimerPlus-Notes/blob/main/1_GettingReady/Inch-cm_Converter.c)
+[*To get the "c" file please click here.*](Inch-cm_Converter.c)
